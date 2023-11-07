@@ -45,7 +45,7 @@ const SignUpPage = () => {
                 </div>
             <div className='form'>{
                 showPassword ? (
-                    <input type='password' name='password' placeholder='password'
+                    <input type='password' name='password' placeholder='Password atleat 6 characters'
                     value={formValues.password}
                     onChange={(e)=>setformValues({
                         ...formValues, [e.target.name]: e.target.value
