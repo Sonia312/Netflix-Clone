@@ -24,6 +24,6 @@ Welcome to the Netflix Clone project repository. This project is an attempt to r
 
 ## Video
 
-[here]([link-to-live-demo](https://drive.google.com/file/d/1lSrygVM5OZPylE1nShnH8DnlDWgWAHpA/view?usp=sharing)) 
+https://drive.google.com/file/d/1lSrygVM5OZPylE1nShnH8DnlDWgWAHpA/view?usp=sharing
 
 Java Full Stack Technologies final group project
