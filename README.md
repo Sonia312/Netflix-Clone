@@ -27,3 +27,5 @@ Welcome to the Netflix Clone project repository. This project is an attempt to r
 https://drive.google.com/file/d/1lSrygVM5OZPylE1nShnH8DnlDWgWAHpA/view?usp=sharing
 
 Java Full Stack Technologies final group project
+
+Team Members - Sonia Dessai, Swamini Bhagwat, Saniya Dighe, Radhika Fadnavis
